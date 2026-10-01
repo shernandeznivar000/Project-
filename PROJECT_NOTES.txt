@@ -1,0 +1,15 @@
+PROJECT NOTES
+
+Project: Technology Quiz Game
+Language: Python
+
+The goal of this project is to create a small working software program using Python. The program gives the user a quiz about computers and technology and calculates the user's score.
+
+I chose this idea because it is interactive and gives me a way to practice basic Python concepts while making something that actually runs.
+
+Future improvements could include:
+- Adding more questions
+- Adding different categories
+- Keeping track of high scores
+- Adding a timer
+- Creating a graphical interface
